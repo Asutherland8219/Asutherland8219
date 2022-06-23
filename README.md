@@ -15,13 +15,14 @@ I am an honors in finance graduate who decided to give coding a try! Originally 
 
 <p align="left"> <a href="https://www.dev.to/asutherland8219" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/asutherland8219" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Asutherland8219" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/suds171" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
+## 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/asutherland8219/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Asutherland8219&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Alex's github stats" /></a> <a href="https://github.com/asutherland8219/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asutherland8219&langs_count=10&theme=algolia&layout=compact" /></a> 
 
-<a href="http://www.github.com/asutherland8219"><img src="https://github-readme-stats.vercel.app/api?username=asutherland8219&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="asutherland8219's GitHub stats" /></a>
 
 <a href="http://www.github.com/asutherland8219"><img src="https://activity-graph.herokuapp.com/graph?username=asutherland8219&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![](drinking.gif)
+## What I'm Listening To
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173226325)  <img align="center" ![](drinking.gif) />
 
