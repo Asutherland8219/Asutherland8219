@@ -24,5 +24,5 @@ I am an honors in finance graduate who decided to give coding a try! Originally 
 
 ## 🎧 What I'm Listening To
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173226325&width=1000)  <p align=right> <img width=975 src="drinking.gif"/> 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173226325&width=1000)  <p align=center> <img width=975 src="drinking.gif"/> 
 
