@@ -20,9 +20,9 @@ I am an honors in finance graduate who decided to give coding a try! Originally 
 <a href="https://github.com/asutherland8219/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Asutherland8219&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Alex's github stats" width=435 /></a> <a href="https://github.com/asutherland8219/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asutherland8219&langs_count=10&theme=algolia&layout=compact" width=400 /></a> 
 
 
-<a href="http://www.github.com/asutherland8219"><img src="https://activity-graph.herokuapp.com/graph?username=asutherland8219&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width= 1000 alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/asutherland8219"><img src="https://activity-graph.herokuapp.com/graph?username=asutherland8219&bg_color=181824&color=ffffff&line=0891b2&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" width= 850 alt="GitHub Commits Graph" /></a>
 
 ## 🎧 What I'm Listening To
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173226325&width=800)  <p align=center> <img width=850 src="drinking.gif"/> 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12173226325&width=850)  <p align=center> <img width=850 src="drinking.gif"/> 
 
