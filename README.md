@@ -1,7 +1,7 @@
 ### Backend Developer and Support Specialist
 
 I am an honors in finance graduate who decided to give coding a try! Originally hired as a QA and Support Specialist at Passiv, I have since honed my skills and moved on to backend development. Currently, I focus on API development and building new features for customers.
-- 🌍  I'm based in New Brunswick, Canada.
+- 🌍  I'm based in Montreal, Canada.
 - *✉️  You can contact me at [asutherland8219@gmail.com](mailto:asutherland8219@gmail.com)* 
 - 🧠  I'm learning C++ and Machine Learning Concepts. 
 - 🤝  I'm open to collaborating on Python based projects, specifically in the Fintech/ML space. 
